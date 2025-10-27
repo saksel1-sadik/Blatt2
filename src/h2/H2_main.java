@@ -10,6 +10,7 @@ public class H2_main {
 		if (j < min) {
 			min = j;
 		}
+
 		if (k < min) {
 			min = k;
 		}

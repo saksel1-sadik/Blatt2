@@ -10,7 +10,8 @@ public class P2_main {
 			b = true;
 		}
 
-		System.out.println(b);
+		System.out.println("Wert von i: " + i); 
+		System.out.println("Wert von b: " + b);
 
 	}
 }
